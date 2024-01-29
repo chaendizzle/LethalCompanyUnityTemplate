@@ -1,10 +1,10 @@
 ManifestFileVersion: 0
-CRC: 1858218903
+CRC: 592351274
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: modassets
+      Name: timebomb
       Dependencies: {}
     Info_1:
-      Name: timebomb
+      Name: modassets
       Dependencies: {}
