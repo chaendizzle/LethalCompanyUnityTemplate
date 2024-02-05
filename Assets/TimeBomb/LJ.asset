@@ -37,6 +37,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+  spawningDisabled: 0
   numberSpawnedFalloff:
     serializedVersion: 2
     m_Curve:
@@ -65,7 +66,7 @@ MonoBehaviour:
   enemyPrefab: {fileID: 3452189061158069021, guid: 2d900e2ec719e8843b904ccd0cbf7391,
     type: 3}
   PowerLevel: 1
-  MaxCount: 100
+  MaxCount: 1
   numberSpawned: 0
   isOutsideEnemy: 0
   isDaytimeEnemy: 0
