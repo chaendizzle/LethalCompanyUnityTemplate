@@ -1,0 +1,112 @@
+ManifestFileVersion: 0
+CRC: 164476995
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a01b2da154b70cabc36d99af3abec65c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a9f85156695da74119dd03a195a35767
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a01b2da154b70cabc36d99af3abec65c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b2d8418b0b9634b1892b0268dd9c2743, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65d3fcb39dd67306e9bb17a603308070, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+Assets:
+- Assets/Gabriel/gab2nd_TauntEcstatic5.wav
+- Assets/Gabriel/GabrielSwing2.wav
+- Assets/Gabriel/gab2nd_TauntAngry5.wav
+- Assets/Gabriel/gab2nd_TauntAngry3.wav
+- Assets/Gabriel/gab2nd_TauntEcstatic4.wav
+- Assets/Gabriel/GabrielSwing.wav
+- Assets/Gabriel/GabrielNetworkManager.prefab
+- Assets/Gabriel/gab2nd_phaseChange2.wav
+- Assets/Gabriel/gab2nd_TauntEcstatic9.wav
+- Assets/Gabriel/Material.002.mat
+- Assets/Gabriel/justice.fbx
+- Assets/Gabriel/T_Gabriel_Sword-export.png
+- Assets/Gabriel/music.ogg
+- Assets/Gabriel/silence.wav
+- Assets/Gabriel/splendor.fbx
+- Assets/Gabriel/Fly2.anim
+- Assets/Gabriel/gab2nd_TauntAngry6.wav
+- Assets/Gabriel/gab2nd_TauntEcstatic10.wav
+- Assets/Gabriel/monologue1.ogg
+- Assets/Gabriel/Gabriel.controller
+- Assets/Gabriel/gab2nd_TauntEcstatic8.wav
+- Assets/Gabriel/TPose.anim
+- Assets/Gabriel/Fly.anim
+- Assets/Gabriel/T_Wings-export.png
+- Assets/Gabriel/gabriel.fbx
+- Assets/Gabriel/Gabriel.prefab
+- Assets/Gabriel/gab2nd_TauntEcstatic1.wav
+- Assets/Gabriel/Material.001.mat
+- Assets/Gabriel/gab2nd_TauntAngry7.wav
+- Assets/Gabriel/gab2nd_TauntEcstatic3.wav
+- Assets/Gabriel/Attack.anim
+- Assets/Gabriel/gab2nd_TauntAngry1.wav
+- Assets/Gabriel/Gabriel.asset
+- Assets/Gabriel/T_GabeSword_Blue.png
+- Assets/Gabriel/gab2nd_TauntAngry2.wav
+- Assets/Gabriel/T_Gabriel2-export.png
+- Assets/Gabriel/gab2nd_TauntAngry4.wav
+- Assets/Gabriel/T_GabeSword_Gold.png
+- Assets/Gabriel/Cutscene.anim
+- Assets/Gabriel/gab2nd_TauntEcstatic2.wav
+- Assets/Gabriel/monologue0.ogg
+- Assets/Gabriel/gab2nd_TauntEcstatic7.wav
+- Assets/Gabriel/gab2nd_TauntEcstatic6.wav
+Dependencies: []
