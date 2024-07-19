@@ -1,0 +1,142 @@
+ManifestFileVersion: 0
+CRC: 411863316
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dee49eb7e4f64f413b5279686fa602f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 06414cc8d9ce25935a289de152a179db
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dee49eb7e4f64f413b5279686fa602f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdafc37f32b176349b1684c4455b98e9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65d3fcb39dd67306e9bb17a603308070, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07c3070554d0a8944a95ff8f018c2c9f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c36d0a92cbb1f26a39169ef0eae393a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d3cecf05b78b173605122a700874719c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 117
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+- Class: 73398921
+  Script: {instanceID: 0}
+- Class: 2058629509
+  Script: {instanceID: 0}
+- Class: 2083052967
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.VisualEffectGraph.Runtime
+  ClassName: UnityEngine.VFX.Utility.ExposedProperty
+Assets:
+- Assets/BT/BT_Slumped_SDF.asset
+- Assets/BT/Splash/WaveMat.mat
+- Assets/BT/TarPuddleDecal.mat
+- Assets/BT/Splash/PointsSplashMat.mat
+- Assets/BT/Zombie/zombie low_zombie 2048x2048_MaskMap.png
+- Assets/BT/TarPuddle.prefab
+- Assets/BT/Pose3SDF.asset
+- Assets/BT/Pose4SDF.asset
+- Assets/BT/Zombie/zombie low_zombiedark 2048x2048_BaseMap.png
+- Assets/BT/tar.png
+- Assets/BT/Splash/waveMesh.obj
+- Assets/BT/Splash/Splash.controller
+- Assets/BT/BT_Cord.vfx
+- Assets/BT/BTKeyword.asset
+- Assets/BT/BT.vfx
+- Assets/BT/Zombie.prefab
+- Assets/BT/Zombie/zombie low_zombie 2048x2048_Normal.png
+- Assets/BT/Splash/SplashMat.mat
+- Assets/BT/Splash/waveMainTex.psd
+- Assets/BT/DebugSphere.prefab
+- Assets/BT/BT_VFX.prefab
+- Assets/BT/Splash/WaterSplashAnim.anim
+- Assets/BT/TestMaterial.mat
+- Assets/BT/Splash/WaveShader.shadergraph
+- Assets/BT/BT.asset
+- Assets/BT/Splash/IKT4l.jpg
+- Assets/BT/TarZombie.controller
+- Assets/BT/bt0.ogg
+- Assets/BT/handprint.png
+- Assets/BT/Zombie Crawl.anim
+- Assets/BT/bt1.ogg
+- Assets/BT/Pose0SDF.asset
+- Assets/BT/Pose2SDF.asset
+- Assets/BT/Zombie/TarSkin.mat
+- Assets/BT/normal.png
+- Assets/BT/Splash/knob.png
+- Assets/BT/HandprintDecal.mat
+- Assets/BT/BT_Enemy.prefab
+- Assets/BT/Splash/splashTex.png
+- Assets/BT/MapDotRed.mat
+- Assets/BT/BTNetworkManager.prefab
+- Assets/BT/Splash/SplashShader.shadergraph
+- Assets/BT/Splash/Splash.prefab
+- Assets/BT/Square.png
+- Assets/BT/Zombie/skinless zombie.fbx
+- Assets/BT/Pose1SDF.asset
+- Assets/BT/Handprint.prefab
+Dependencies: []
